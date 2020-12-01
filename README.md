@@ -1,3 +1,5 @@
+# DONT USE CHANGES MERGED INTO 0.20.10 ALREADY, MIGRATE CONSUMERS AND DELETE THIS REPO
+
 # [knex.js](http://knexjs.org)
 
 [![npm version](http://img.shields.io/npm/v/knex.svg)](https://npmjs.org/package/knex)
